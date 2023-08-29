@@ -5,9 +5,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/moritz-wieland-11b039279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://twitter.com/moritz_wieland">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div id="counter" align="center">
